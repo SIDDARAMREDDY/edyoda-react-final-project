@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/edyoda-react-final-project/static/css/main.16c22077.css",
+    "main.js": "/edyoda-react-final-project/static/js/main.2095d7ca.js",
+    "index.html": "/edyoda-react-final-project/index.html",
+    "main.16c22077.css.map": "/edyoda-react-final-project/static/css/main.16c22077.css.map",
+    "main.2095d7ca.js.map": "/edyoda-react-final-project/static/js/main.2095d7ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16c22077.css",
+    "static/js/main.2095d7ca.js"
+  ]
+}
