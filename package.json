@@ -31,7 +31,9 @@
     "extends": [
       "react-app",
       "react-app/jest"
-    ]
+    ],
+      "plugins": ["testing-library"]
+    
   },
   "browserslist": {
     "production": [
@@ -46,6 +48,8 @@
     ]
   },
   "devDependencies": {
+    "eslint": "^8.27.0",
+    "eslint-plugin-testing-library": "^5.9.1",
     "gh-pages": "^4.0.0"
   }
 }
