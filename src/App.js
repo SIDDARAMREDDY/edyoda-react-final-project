@@ -1,16 +1,22 @@
+import React from 'react';
 import "./App.css";
-import Header from "./components/Header/Header";
-import Cards from "./components/Cards/Cards";
-import Footer from "./components/Footer/Footer";
+import Footer from "./components/footer/Footer";
+import Header from "./components/header/Header";
+import Routes from "./components/routes/Routes";
+import { BrowserRouter } from "react-router-dom";
 
-const App = () => {
+function App() {
   return (
-    <div>
-      <Header />
-      <Cards />
-      <Footer />
-    </div>
+    <BrowserRouter>
+      <div>
+        <Header />
+        <div className="padding-class">
+          <Routes />
+        </div>
+        <Footer />
+      </div>
+    </BrowserRouter>
   );
-};
+}
 
 export default App;
