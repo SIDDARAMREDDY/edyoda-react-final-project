@@ -1,9 +1,9 @@
-#LANDING PAGE
+# LANDING PAGE
 
 ![image](https://user-images.githubusercontent.com/109234037/202136478-2952b003-a573-441a-b570-bcbad871153d.png)
 
 
-#HOME PAGE/DASHBOARD
+# HOME PAGE/DASHBOARD
 
 ![image](https://user-images.githubusercontent.com/109234037/202136604-3076341b-0f52-4800-a715-c21374f96714.png)
 
@@ -12,7 +12,7 @@
 ![image](https://user-images.githubusercontent.com/109234037/202136697-b635d83e-33fe-4054-9e0a-fcee01538e71.png)
 
 
-#PRODUCTS
+# PRODUCTS
 
 ![image](https://user-images.githubusercontent.com/109234037/202136788-56baf976-7b4d-4753-a3c2-d782bf6f8ca8.png)
 
@@ -20,7 +20,7 @@ ADD NEW PRODUCT
 ![image](https://user-images.githubusercontent.com/109234037/202136842-8245f781-0ae4-4ad0-8f5e-7eb9f681f8a1.png)
 
 
-#ACCOUNT
+# ACCOUNT
 
 ![image](https://user-images.githubusercontent.com/109234037/202136940-025de613-23a7-40eb-8b0c-11bd299cbedf.png)
 
